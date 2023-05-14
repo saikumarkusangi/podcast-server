@@ -1,0 +1,7 @@
+pillow
+Django
+gunicorn
+mysqlclient
+django-filter
+djangorestframework
+django-cors-headers
